@@ -16,4 +16,7 @@ public class HelloWorld {
     public static void anotherFeature2() {
         System.out.println("To check rebase!");
     }
+    public static void anotherFeature3() {
+        System.out.println("Make more changes!");
+    }
 }
