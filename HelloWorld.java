@@ -4,4 +4,7 @@ public class HelloWorld {
         // Print a greeting message to the console
         System.out.println("Hello, World!");
     }
+     public static void NewChanges() {
+        System.out.println("Make more changes!");
+    }
 }
